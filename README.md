@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Jedys7/Jedys7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola bienvenido soy _Javier Dos santos_
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy autodidacta y estudio programacion por pasion en poder hacer herramientas, experiencias y cualquie tipo
+
+
+## Estudios y Trabajos
+
+## Mis Certificados
+
+Te invito a visitar los proyectos que estoy desarrollando
+## [Industria Jedys](https://google.com "Pagina Principal de Industria Jedys")
++ [Mad](htep "MAD")
++ [Escuela en Guerra](sakjdb "Escuela en Guerra")
++ [Real Politica](jhsd "Real Politica")
+
+Si quieres comunicarte conmigo, puedes hacerlo por la redes sociales.
