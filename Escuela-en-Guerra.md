@@ -1,1 +1,0 @@
-# Escuela en Guerra
