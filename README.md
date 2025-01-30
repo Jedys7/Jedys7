@@ -2,19 +2,3 @@
 
 # Hola bienvenido soy _Javier Dos santos_
 
-## Sobre mi
-
-Soy autodidacta y estudio programacion por pasion en poder hacer herramientas, experiencias y cualquie tipo
-
-
-## Estudios y Trabajos
-
-## Mis Certificados
-
-Te invito a visitar los proyectos que estoy desarrollando
-## [Industria Jedys](https://google.com "Pagina Principal de Industria Jedys")
-+ [Mad](https://github.com/Jedys7/Jedys7/blob/main/MAD.md "MAD")
-+ [Escuela en Guerra](https://github.com/Jedys7/Jedys7/blob/Escuela-en-Guerra/Escuela-en-Guerra.md "Escuela en Guerra")
-+ [Real Politica](jhsd "Real Politica")
-
-Si quieres comunicarte conmigo, puedes hacerlo por la redes sociales.
